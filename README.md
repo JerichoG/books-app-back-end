@@ -1,7 +1,7 @@
 # books-app-back-end
 this is Shelf book API for Dicoding Submission
 
-#Criteria
+# Criteria
 - Create Endpoint API with Javascript using Node.js
 - Using Hapi Framework
 - Create parameter to identify finished book
